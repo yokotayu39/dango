@@ -1,0 +1,2243 @@
+[
+  {
+    "jpnName": "アイスランド",
+    "engName": "Iceland",
+    "numeric": 352,
+    "alpha3": "ISL",
+    "alpha2": "IS",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:IS"
+  },
+  {
+    "jpnName": "アイルランド",
+    "engName": "Ireland",
+    "numeric": 372,
+    "alpha3": "IRL",
+    "alpha2": "IE",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:IE"
+  },
+  {
+    "jpnName": "アゼルバイジャン",
+    "engName": "Azerbaijan",
+    "numeric": "031",
+    "alpha3": "AZE",
+    "alpha2": "AZ",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:AZ"
+  },
+  {
+    "jpnName": "アフガニスタン",
+    "engName": "Afghanistan",
+    "numeric": "004",
+    "alpha3": "AFG",
+    "alpha2": "AF",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:AF"
+  },
+  {
+    "jpnName": "アメリカ合衆国",
+    "engName": "United States",
+    "numeric": 840,
+    "alpha3": "USA",
+    "alpha2": "US",
+    "location": "北アメリカ",
+    "subDivision": "ISO 3166-2:US"
+  },
+  {
+    "jpnName": "アメリカ領ヴァージン諸島",
+    "engName": "Virgin Islands, U.S.",
+    "numeric": 850,
+    "alpha3": "VIR",
+    "alpha2": "VI",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:VI"
+  },
+  {
+    "jpnName": "アメリカ領サモア",
+    "engName": "American Samoa",
+    "numeric": "016",
+    "alpha3": "ASM",
+    "alpha2": "AS",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:AS"
+  },
+  {
+    "jpnName": "アラブ首長国連邦",
+    "engName": "United Arab Emirates",
+    "numeric": 784,
+    "alpha3": "ARE",
+    "alpha2": "AE",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:AE"
+  },
+  {
+    "jpnName": "アルジェリア",
+    "engName": "Algeria",
+    "numeric": "012",
+    "alpha3": "DZA",
+    "alpha2": "DZ",
+    "location": "北アフリカ",
+    "subDivision": "ISO 3166-2:DZ"
+  },
+  {
+    "jpnName": "アルゼンチン",
+    "engName": "Argentina",
+    "numeric": "032",
+    "alpha3": "ARG",
+    "alpha2": "AR",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:AR"
+  },
+  {
+    "jpnName": "アルバ",
+    "engName": "Aruba",
+    "numeric": 533,
+    "alpha3": "ABW",
+    "alpha2": "AW",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:AW"
+  },
+  {
+    "jpnName": "アルバニア",
+    "engName": "Albania",
+    "numeric": "008",
+    "alpha3": "ALB",
+    "alpha2": "AL",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:AL"
+  },
+  {
+    "jpnName": "アルメニア",
+    "engName": "Armenia",
+    "numeric": "051",
+    "alpha3": "ARM",
+    "alpha2": "AM",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:AM"
+  },
+  {
+    "jpnName": "アンギラ",
+    "engName": "Anguilla",
+    "numeric": 660,
+    "alpha3": "AIA",
+    "alpha2": "AI",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:AI"
+  },
+  {
+    "jpnName": "アンゴラ",
+    "engName": "Angola",
+    "numeric": "024",
+    "alpha3": "AGO",
+    "alpha2": "AO",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:AO"
+  },
+  {
+    "jpnName": "アンティグア・バーブーダ",
+    "engName": "Antigua and Barbuda",
+    "numeric": "028",
+    "alpha3": "ATG",
+    "alpha2": "AG",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:AG"
+  },
+  {
+    "jpnName": "アンドラ",
+    "engName": "Andorra",
+    "numeric": "020",
+    "alpha3": "AND",
+    "alpha2": "AD",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:AD"
+  },
+  {
+    "jpnName": "イエメン",
+    "engName": "Yemen",
+    "numeric": 887,
+    "alpha3": "YEM",
+    "alpha2": "YE",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:YE"
+  },
+  {
+    "jpnName": "イギリス",
+    "engName": "United Kingdom",
+    "numeric": 826,
+    "alpha3": "GBR",
+    "alpha2": "GB",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:GB"
+  },
+  {
+    "jpnName": "イギリス領インド洋地域",
+    "engName": "British Indian Ocean Territory",
+    "numeric": "086",
+    "alpha3": "IOT",
+    "alpha2": "IO",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:IO"
+  },
+  {
+    "jpnName": "イギリス領ヴァージン諸島",
+    "engName": "Virgin Islands, British",
+    "numeric": "092",
+    "alpha3": "VGB",
+    "alpha2": "VG",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:VG"
+  },
+  {
+    "jpnName": "イスラエル",
+    "engName": "Israel",
+    "numeric": 376,
+    "alpha3": "ISR",
+    "alpha2": "IL",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:IL"
+  },
+  {
+    "jpnName": "イタリア",
+    "engName": "Italy",
+    "numeric": 380,
+    "alpha3": "ITA",
+    "alpha2": "IT",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:IT"
+  },
+  {
+    "jpnName": "イラク",
+    "engName": "Iraq",
+    "numeric": 368,
+    "alpha3": "IRQ",
+    "alpha2": "IQ",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:IQ"
+  },
+  {
+    "jpnName": "イラン",
+    "engName": "Iran, Islamic Republic of",
+    "numeric": 364,
+    "alpha3": "IRN",
+    "alpha2": "IR",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:IR"
+  },
+  {
+    "jpnName": "インド",
+    "engName": "India",
+    "numeric": 356,
+    "alpha3": "IND",
+    "alpha2": "IN",
+    "location": "南アジア",
+    "subDivision": "ISO 3166-2:IN"
+  },
+  {
+    "jpnName": "インドネシア",
+    "engName": "Indonesia",
+    "numeric": 360,
+    "alpha3": "IDN",
+    "alpha2": "ID",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:ID"
+  },
+  {
+    "jpnName": "ウォリス・フツナ",
+    "engName": "Wallis and Futuna",
+    "numeric": 876,
+    "alpha3": "WLF",
+    "alpha2": "WF",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:WF"
+  },
+  {
+    "jpnName": "ウガンダ",
+    "engName": "Uganda",
+    "numeric": 800,
+    "alpha3": "UGA",
+    "alpha2": "UG",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:UG"
+  },
+  {
+    "jpnName": "ウクライナ",
+    "engName": "Ukraine",
+    "numeric": 804,
+    "alpha3": "UKR",
+    "alpha2": "UA",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:UA"
+  },
+  {
+    "jpnName": "ウズベキスタン",
+    "engName": "Uzbekistan",
+    "numeric": 860,
+    "alpha3": "UZB",
+    "alpha2": "UZ",
+    "location": "中央アジア",
+    "subDivision": "ISO 3166-2:UZ"
+  },
+  {
+    "jpnName": "ウルグアイ",
+    "engName": "Uruguay",
+    "numeric": 858,
+    "alpha3": "URY",
+    "alpha2": "UY",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:UY"
+  },
+  {
+    "jpnName": "エクアドル",
+    "engName": "Ecuador",
+    "numeric": 218,
+    "alpha3": "ECU",
+    "alpha2": "EC",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:EC"
+  },
+  {
+    "jpnName": "エジプト",
+    "engName": "Egypt",
+    "numeric": 818,
+    "alpha3": "EGY",
+    "alpha2": "EG",
+    "location": "北アフリカ",
+    "subDivision": "ISO 3166-2:EG"
+  },
+  {
+    "jpnName": "エストニア",
+    "engName": "Estonia",
+    "numeric": 233,
+    "alpha3": "EST",
+    "alpha2": "EE",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:EE"
+  },
+  {
+    "jpnName": "エチオピア",
+    "engName": "Ethiopia",
+    "numeric": 231,
+    "alpha3": "ETH",
+    "alpha2": "ET",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:ET"
+  },
+  {
+    "jpnName": "エリトリア",
+    "engName": "Eritrea",
+    "numeric": 232,
+    "alpha3": "ERI",
+    "alpha2": "ER",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:ER"
+  },
+  {
+    "jpnName": "エルサルバドル",
+    "engName": "El Salvador",
+    "numeric": 222,
+    "alpha3": "SLV",
+    "alpha2": "SV",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:SV"
+  },
+  {
+    "jpnName": "オーストラリア",
+    "engName": "Australia",
+    "numeric": "036",
+    "alpha3": "AUS",
+    "alpha2": "AU",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:AU"
+  },
+  {
+    "jpnName": "オーストリア",
+    "engName": "Austria",
+    "numeric": "040",
+    "alpha3": "AUT",
+    "alpha2": "AT",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:AT"
+  },
+  {
+    "jpnName": "オーランド諸島",
+    "engName": "Åland Islands",
+    "numeric": 248,
+    "alpha3": "ALA",
+    "alpha2": "AX",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:AX"
+  },
+  {
+    "jpnName": "オマーン",
+    "engName": "Oman",
+    "numeric": 512,
+    "alpha3": "OMN",
+    "alpha2": "OM",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:OM"
+  },
+  {
+    "jpnName": "オランダ",
+    "engName": "Netherlands",
+    "numeric": 528,
+    "alpha3": "NLD",
+    "alpha2": "NL",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:NL"
+  },
+  {
+    "jpnName": "ガーナ",
+    "engName": "Ghana",
+    "numeric": 288,
+    "alpha3": "GHA",
+    "alpha2": "GH",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:GH"
+  },
+  {
+    "jpnName": "カーボベルデ",
+    "engName": "Cape Verde",
+    "numeric": 132,
+    "alpha3": "CPV",
+    "alpha2": "CV",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:CV"
+  },
+  {
+    "jpnName": "ガーンジー",
+    "engName": "Guernsey",
+    "numeric": 831,
+    "alpha3": "GGY",
+    "alpha2": "GG",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:GG"
+  },
+  {
+    "jpnName": "ガイアナ",
+    "engName": "Guyana",
+    "numeric": 328,
+    "alpha3": "GUY",
+    "alpha2": "GY",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:GY"
+  },
+  {
+    "jpnName": "カザフスタン",
+    "engName": "Kazakhstan",
+    "numeric": 398,
+    "alpha3": "KAZ",
+    "alpha2": "KZ",
+    "location": "中央アジア",
+    "subDivision": "ISO 3166-2:KZ"
+  },
+  {
+    "jpnName": "カタール",
+    "engName": "Qatar",
+    "numeric": 634,
+    "alpha3": "QAT",
+    "alpha2": "QA",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:QA"
+  },
+  {
+    "jpnName": "合衆国領有小離島",
+    "engName": "United States Minor Outlying Islands",
+    "numeric": 581,
+    "alpha3": "UMI",
+    "alpha2": "UM",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:UM"
+  },
+  {
+    "jpnName": "カナダ",
+    "engName": "Canada",
+    "numeric": 124,
+    "alpha3": "CAN",
+    "alpha2": "CA",
+    "location": "北アメリカ",
+    "subDivision": "ISO 3166-2:CA"
+  },
+  {
+    "jpnName": "ガボン",
+    "engName": "Gabon",
+    "numeric": 266,
+    "alpha3": "GAB",
+    "alpha2": "GA",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:GA"
+  },
+  {
+    "jpnName": "カメルーン",
+    "engName": "Cameroon",
+    "numeric": 120,
+    "alpha3": "CMR",
+    "alpha2": "CM",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:CM"
+  },
+  {
+    "jpnName": "ガンビア",
+    "engName": "Gambia",
+    "numeric": 270,
+    "alpha3": "GMB",
+    "alpha2": "GM",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:GM"
+  },
+  {
+    "jpnName": "カンボジア",
+    "engName": "Cambodia",
+    "numeric": 116,
+    "alpha3": "KHM",
+    "alpha2": "KH",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:KH"
+  },
+  {
+    "jpnName": "北マリアナ諸島",
+    "engName": "Northern Mariana Islands",
+    "numeric": 580,
+    "alpha3": "MNP",
+    "alpha2": "MP",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:MP"
+  },
+  {
+    "jpnName": "ギニア",
+    "engName": "Guinea",
+    "numeric": 324,
+    "alpha3": "GIN",
+    "alpha2": "GN",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:GN"
+  },
+  {
+    "jpnName": "ギニアビサウ",
+    "engName": "Guinea-Bissau",
+    "numeric": 624,
+    "alpha3": "GNB",
+    "alpha2": "GW",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:GW"
+  },
+  {
+    "jpnName": "キプロス",
+    "engName": "Cyprus",
+    "numeric": 196,
+    "alpha3": "CYP",
+    "alpha2": "CY",
+    "location": "地中海地域",
+    "subDivision": "ISO 3166-2:CY"
+  },
+  {
+    "jpnName": "キューバ",
+    "engName": "Cuba",
+    "numeric": 192,
+    "alpha3": "CUB",
+    "alpha2": "CU",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:CU"
+  },
+  {
+    "jpnName": "キュラソー",
+    "engName": "Curaçao",
+    "numeric": 531,
+    "alpha3": "CUW",
+    "alpha2": "CW",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:CW"
+  },
+  {
+    "jpnName": "ギリシャ",
+    "engName": "Greece",
+    "numeric": 300,
+    "alpha3": "GRC",
+    "alpha2": "GR",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:GR"
+  },
+  {
+    "jpnName": "キリバス",
+    "engName": "Kiribati",
+    "numeric": 296,
+    "alpha3": "KIR",
+    "alpha2": "KI",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:KI"
+  },
+  {
+    "jpnName": "キルギス",
+    "engName": "Kyrgyzstan",
+    "numeric": 417,
+    "alpha3": "KGZ",
+    "alpha2": "KG",
+    "location": "中央アジア",
+    "subDivision": "ISO 3166-2:KG"
+  },
+  {
+    "jpnName": "グアテマラ",
+    "engName": "Guatemala",
+    "numeric": 320,
+    "alpha3": "GTM",
+    "alpha2": "GT",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:GT"
+  },
+  {
+    "jpnName": "グアドループ",
+    "engName": "Guadeloupe",
+    "numeric": 312,
+    "alpha3": "GLP",
+    "alpha2": "GP",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:GP"
+  },
+  {
+    "jpnName": "グアム",
+    "engName": "Guam",
+    "numeric": 316,
+    "alpha3": "GUM",
+    "alpha2": "GU",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:GU"
+  },
+  {
+    "jpnName": "クウェート",
+    "engName": "Kuwait",
+    "numeric": 414,
+    "alpha3": "KWT",
+    "alpha2": "KW",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:KW"
+  },
+  {
+    "jpnName": "クック諸島",
+    "engName": "Cook Islands",
+    "numeric": 184,
+    "alpha3": "COK",
+    "alpha2": "CK",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:CK"
+  },
+  {
+    "jpnName": "グリーンランド",
+    "engName": "Greenland",
+    "numeric": 304,
+    "alpha3": "GRL",
+    "alpha2": "GL",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:GL"
+  },
+  {
+    "jpnName": "クリスマス島",
+    "engName": "Christmas Island",
+    "numeric": 162,
+    "alpha3": "CXR",
+    "alpha2": "CX",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:CX"
+  },
+  {
+    "jpnName": "グルジア",
+    "engName": "Georgia",
+    "numeric": 268,
+    "alpha3": "GEO",
+    "alpha2": "GE",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:GE"
+  },
+  {
+    "jpnName": "グレナダ",
+    "engName": "Grenada",
+    "numeric": 308,
+    "alpha3": "GRD",
+    "alpha2": "GD",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:GD"
+  },
+  {
+    "jpnName": "クロアチア",
+    "engName": "Croatia",
+    "numeric": 191,
+    "alpha3": "HRV",
+    "alpha2": "HR",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:HR"
+  },
+  {
+    "jpnName": "ケイマン諸島",
+    "engName": "Cayman Islands",
+    "numeric": 136,
+    "alpha3": "CYM",
+    "alpha2": "KY",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:KY"
+  },
+  {
+    "jpnName": "ケニア",
+    "engName": "Kenya",
+    "numeric": 404,
+    "alpha3": "KEN",
+    "alpha2": "KE",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:KE"
+  },
+  {
+    "jpnName": "コートジボワール",
+    "engName": "Côte d'Ivoire",
+    "numeric": 384,
+    "alpha3": "CIV",
+    "alpha2": "CI",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:CI"
+  },
+  {
+    "jpnName": "ココス諸島",
+    "engName": "Cocos (Keeling) Islands",
+    "numeric": 166,
+    "alpha3": "CCK",
+    "alpha2": "CC",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:CC"
+  },
+  {
+    "jpnName": "コスタリカ",
+    "engName": "Costa Rica",
+    "numeric": 188,
+    "alpha3": "CRI",
+    "alpha2": "CR",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:CR"
+  },
+  {
+    "jpnName": "コモロ",
+    "engName": "Comoros",
+    "numeric": 174,
+    "alpha3": "COM",
+    "alpha2": "KM",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:KM"
+  },
+  {
+    "jpnName": "コロンビア",
+    "engName": "Colombia",
+    "numeric": 170,
+    "alpha3": "COL",
+    "alpha2": "CO",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:CO"
+  },
+  {
+    "jpnName": "コンゴ共和国",
+    "engName": "Congo",
+    "numeric": 178,
+    "alpha3": "COG",
+    "alpha2": "CG",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:CG"
+  },
+  {
+    "jpnName": "コンゴ民主共和国",
+    "engName": "Congo, the Democratic Republic of the",
+    "numeric": 180,
+    "alpha3": "COD",
+    "alpha2": "CD",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:CD"
+  },
+  {
+    "jpnName": "サウジアラビア",
+    "engName": "Saudi Arabia",
+    "numeric": 682,
+    "alpha3": "SAU",
+    "alpha2": "SA",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:SA"
+  },
+  {
+    "jpnName": "サウスジョージア・サウスサンドウィッチ諸島",
+    "engName": "South Georgia and the South Sandwich Islands",
+    "numeric": 239,
+    "alpha3": "SGS",
+    "alpha2": "GS",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:GS"
+  },
+  {
+    "jpnName": "サモア",
+    "engName": "Samoa",
+    "numeric": 882,
+    "alpha3": "WSM",
+    "alpha2": "WS",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:WS"
+  },
+  {
+    "jpnName": "サントメ・プリンシペ",
+    "engName": "Sao Tome and Principe",
+    "numeric": 678,
+    "alpha3": "STP",
+    "alpha2": "ST",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:ST"
+  },
+  {
+    "jpnName": "サン・バルテルミー",
+    "engName": "Saint Barthélemy",
+    "numeric": 652,
+    "alpha3": "BLM",
+    "alpha2": "BL",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:BL"
+  },
+  {
+    "jpnName": "ザンビア",
+    "engName": "Zambia",
+    "numeric": 894,
+    "alpha3": "ZMB",
+    "alpha2": "ZM",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:ZM"
+  },
+  {
+    "jpnName": "サンピエール島・ミクロン島",
+    "engName": "Saint Pierre and Miquelon",
+    "numeric": 666,
+    "alpha3": "SPM",
+    "alpha2": "PM",
+    "location": "北アメリカ",
+    "subDivision": "ISO 3166-2:PM"
+  },
+  {
+    "jpnName": "サンマリノ",
+    "engName": "San Marino",
+    "numeric": 674,
+    "alpha3": "SMR",
+    "alpha2": "SM",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:SM"
+  },
+  {
+    "jpnName": "サン・マルタン",
+    "engName": "Saint Martin (French part)",
+    "numeric": 663,
+    "alpha3": "MAF",
+    "alpha2": "MF",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:MF"
+  },
+  {
+    "jpnName": "シエラレオネ",
+    "engName": "Sierra Leone",
+    "numeric": 694,
+    "alpha3": "SLE",
+    "alpha2": "SL",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:SL"
+  },
+  {
+    "jpnName": "ジブチ",
+    "engName": "Djibouti",
+    "numeric": 262,
+    "alpha3": "DJI",
+    "alpha2": "DJ",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:DJ"
+  },
+  {
+    "jpnName": "ジブラルタル",
+    "engName": "Gibraltar",
+    "numeric": 292,
+    "alpha3": "GIB",
+    "alpha2": "GI",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:GI"
+  },
+  {
+    "jpnName": "ジャージー",
+    "engName": "Jersey",
+    "numeric": 832,
+    "alpha3": "JEY",
+    "alpha2": "JE",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:JE"
+  },
+  {
+    "jpnName": "ジャマイカ",
+    "engName": "Jamaica",
+    "numeric": 388,
+    "alpha3": "JAM",
+    "alpha2": "JM",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:JM"
+  },
+  {
+    "jpnName": "シリア",
+    "engName": "Syrian Arab Republic",
+    "numeric": 760,
+    "alpha3": "SYR",
+    "alpha2": "SY",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:SY"
+  },
+  {
+    "jpnName": "シンガポール",
+    "engName": "Singapore",
+    "numeric": 702,
+    "alpha3": "SGP",
+    "alpha2": "SG",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:SG"
+  },
+  {
+    "jpnName": "シント・マールテン",
+    "engName": "Sint Maarten (Dutch part)",
+    "numeric": 534,
+    "alpha3": "SXM",
+    "alpha2": "SX",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:SX"
+  },
+  {
+    "jpnName": "ジンバブエ",
+    "engName": "Zimbabwe",
+    "numeric": 716,
+    "alpha3": "ZWE",
+    "alpha2": "ZW",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:ZW"
+  },
+  {
+    "jpnName": "スイス",
+    "engName": "Switzerland",
+    "numeric": 756,
+    "alpha3": "CHE",
+    "alpha2": "CH",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:CH"
+  },
+  {
+    "jpnName": "スウェーデン",
+    "engName": "Sweden",
+    "numeric": 752,
+    "alpha3": "SWE",
+    "alpha2": "SE",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:SE"
+  },
+  {
+    "jpnName": "スーダン",
+    "engName": "Sudan",
+    "numeric": 729,
+    "alpha3": "SDN",
+    "alpha2": "SD",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:SD"
+  },
+  {
+    "jpnName": "スヴァールバル諸島およびヤンマイエン島",
+    "engName": "Svalbard and Jan Mayen",
+    "numeric": 744,
+    "alpha3": "SJM",
+    "alpha2": "SJ",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:SJ"
+  },
+  {
+    "jpnName": "スペイン",
+    "engName": "Spain",
+    "numeric": 724,
+    "alpha3": "ESP",
+    "alpha2": "ES",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:ES"
+  },
+  {
+    "jpnName": "スリナム",
+    "engName": "Suriname",
+    "numeric": 740,
+    "alpha3": "SUR",
+    "alpha2": "SR",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:SR"
+  },
+  {
+    "jpnName": "スリランカ",
+    "engName": "Sri Lanka",
+    "numeric": 144,
+    "alpha3": "LKA",
+    "alpha2": "LK",
+    "location": "南アジア",
+    "subDivision": "ISO 3166-2:LK"
+  },
+  {
+    "jpnName": "スロバキア",
+    "engName": "Slovakia",
+    "numeric": 703,
+    "alpha3": "SVK",
+    "alpha2": "SK",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:SK"
+  },
+  {
+    "jpnName": "スロベニア",
+    "engName": "Slovenia",
+    "numeric": 705,
+    "alpha3": "SVN",
+    "alpha2": "SI",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:SI"
+  },
+  {
+    "jpnName": "スワジランド",
+    "engName": "Swaziland",
+    "numeric": 748,
+    "alpha3": "SWZ",
+    "alpha2": "SZ",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:SZ"
+  },
+  {
+    "jpnName": "セーシェル",
+    "engName": "Seychelles",
+    "numeric": 690,
+    "alpha3": "SYC",
+    "alpha2": "SC",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:SC"
+  },
+  {
+    "jpnName": "赤道ギニア",
+    "engName": "Equatorial Guinea",
+    "numeric": 226,
+    "alpha3": "GNQ",
+    "alpha2": "GQ",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:GQ"
+  },
+  {
+    "jpnName": "セネガル",
+    "engName": "Senegal",
+    "numeric": 686,
+    "alpha3": "SEN",
+    "alpha2": "SN",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:SN"
+  },
+  {
+    "jpnName": "セルビア",
+    "engName": "Serbia",
+    "numeric": 688,
+    "alpha3": "SRB",
+    "alpha2": "RS",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:RS"
+  },
+  {
+    "jpnName": "セントクリストファー・ネイビス",
+    "engName": "Saint Kitts and Nevis",
+    "numeric": 659,
+    "alpha3": "KNA",
+    "alpha2": "KN",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:KN"
+  },
+  {
+    "jpnName": "セントビンセント・グレナディーン",
+    "engName": "Saint Vincent and the Grenadines",
+    "numeric": 670,
+    "alpha3": "VCT",
+    "alpha2": "VC",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:VC"
+  },
+  {
+    "jpnName": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "engName": "Saint Helena, Ascension and Tristan da Cunha",
+    "numeric": 654,
+    "alpha3": "SHN",
+    "alpha2": "SH",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:SH"
+  },
+  {
+    "jpnName": "セントルシア",
+    "engName": "Saint Lucia",
+    "numeric": 662,
+    "alpha3": "LCA",
+    "alpha2": "LC",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:LC"
+  },
+  {
+    "jpnName": "ソマリア",
+    "engName": "Somalia",
+    "numeric": 706,
+    "alpha3": "SOM",
+    "alpha2": "SO",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:SO"
+  },
+  {
+    "jpnName": "ソロモン諸島",
+    "engName": "Solomon Islands",
+    "numeric": "090",
+    "alpha3": "SLB",
+    "alpha2": "SB",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:SB"
+  },
+  {
+    "jpnName": "タークス・カイコス諸島",
+    "engName": "Turks and Caicos Islands",
+    "numeric": 796,
+    "alpha3": "TCA",
+    "alpha2": "TC",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:TC"
+  },
+  {
+    "jpnName": "タイ",
+    "engName": "Thailand",
+    "numeric": 764,
+    "alpha3": "THA",
+    "alpha2": "TH",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:TH"
+  },
+  {
+    "jpnName": "大韓民国",
+    "engName": "Korea, Republic of",
+    "numeric": 410,
+    "alpha3": "KOR",
+    "alpha2": "KR",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:KR"
+  },
+  {
+    "jpnName": "台湾",
+    "engName": "Taiwan, Province of China",
+    "numeric": 158,
+    "alpha3": "TWN",
+    "alpha2": "TW",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:TW"
+  },
+  {
+    "jpnName": "タジキスタン",
+    "engName": "Tajikistan",
+    "numeric": 762,
+    "alpha3": "TJK",
+    "alpha2": "TJ",
+    "location": "中央アジア",
+    "subDivision": "ISO 3166-2:TJ"
+  },
+  {
+    "jpnName": "タンザニア",
+    "engName": "Tanzania, United Republic of",
+    "numeric": 834,
+    "alpha3": "TZA",
+    "alpha2": "TZ",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:TZ"
+  },
+  {
+    "jpnName": "チェコ",
+    "engName": "Czech Republic",
+    "numeric": 203,
+    "alpha3": "CZE",
+    "alpha2": "CZ",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:CZ"
+  },
+  {
+    "jpnName": "チャド",
+    "engName": "Chad",
+    "numeric": 148,
+    "alpha3": "TCD",
+    "alpha2": "TD",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:TD"
+  },
+  {
+    "jpnName": "中央アフリカ共和国",
+    "engName": "Central African Republic",
+    "numeric": 140,
+    "alpha3": "CAF",
+    "alpha2": "CF",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:CF"
+  },
+  {
+    "jpnName": "中国",
+    "engName": "China",
+    "numeric": 156,
+    "alpha3": "CHN",
+    "alpha2": "CN",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:CN"
+  },
+  {
+    "jpnName": "チュニジア",
+    "engName": "Tunisia",
+    "numeric": 788,
+    "alpha3": "TUN",
+    "alpha2": "TN",
+    "location": "北アフリカ",
+    "subDivision": "ISO 3166-2:TN"
+  },
+  {
+    "jpnName": "朝鮮民主主義人民共和国",
+    "engName": "Korea, Democratic People's Republic of",
+    "numeric": 408,
+    "alpha3": "PRK",
+    "alpha2": "KP",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:KP"
+  },
+  {
+    "jpnName": "チリ",
+    "engName": "Chile",
+    "numeric": 152,
+    "alpha3": "CHL",
+    "alpha2": "CL",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:CL"
+  },
+  {
+    "jpnName": "ツバル",
+    "engName": "Tuvalu",
+    "numeric": 798,
+    "alpha3": "TUV",
+    "alpha2": "TV",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:TV"
+  },
+  {
+    "jpnName": "デンマーク",
+    "engName": "Denmark",
+    "numeric": 208,
+    "alpha3": "DNK",
+    "alpha2": "DK",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:DK"
+  },
+  {
+    "jpnName": "ドイツ",
+    "engName": "Germany",
+    "numeric": 276,
+    "alpha3": "DEU",
+    "alpha2": "DE",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:DE"
+  },
+  {
+    "jpnName": "トーゴ",
+    "engName": "Togo",
+    "numeric": 768,
+    "alpha3": "TGO",
+    "alpha2": "TG",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:TG"
+  },
+  {
+    "jpnName": "トケラウ",
+    "engName": "Tokelau",
+    "numeric": 772,
+    "alpha3": "TKL",
+    "alpha2": "TK",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:TK"
+  },
+  {
+    "jpnName": "ドミニカ共和国",
+    "engName": "Dominican Republic",
+    "numeric": 214,
+    "alpha3": "DOM",
+    "alpha2": "DO",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:DO"
+  },
+  {
+    "jpnName": "ドミニカ国",
+    "engName": "Dominica",
+    "numeric": 212,
+    "alpha3": "DMA",
+    "alpha2": "DM",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:DM"
+  },
+  {
+    "jpnName": "トリニダード・トバゴ",
+    "engName": "Trinidad and Tobago",
+    "numeric": 780,
+    "alpha3": "TTO",
+    "alpha2": "TT",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:TT"
+  },
+  {
+    "jpnName": "トルクメニスタン",
+    "engName": "Turkmenistan",
+    "numeric": 795,
+    "alpha3": "TKM",
+    "alpha2": "TM",
+    "location": "中央アジア",
+    "subDivision": "ISO 3166-2:TM"
+  },
+  {
+    "jpnName": "トルコ",
+    "engName": "Turkey",
+    "numeric": 792,
+    "alpha3": "TUR",
+    "alpha2": "TR",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:TR"
+  },
+  {
+    "jpnName": "トンガ",
+    "engName": "Tonga",
+    "numeric": 776,
+    "alpha3": "TON",
+    "alpha2": "TO",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:TO"
+  },
+  {
+    "jpnName": "ナイジェリア",
+    "engName": "Nigeria",
+    "numeric": 566,
+    "alpha3": "NGA",
+    "alpha2": "NG",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:NG"
+  },
+  {
+    "jpnName": "ナウル",
+    "engName": "Nauru",
+    "numeric": 520,
+    "alpha3": "NRU",
+    "alpha2": "NR",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:NR"
+  },
+  {
+    "jpnName": "ナミビア",
+    "engName": "Namibia",
+    "numeric": 516,
+    "alpha3": "NAM",
+    "alpha2": "NA",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:NA"
+  },
+  {
+    "jpnName": "南極",
+    "engName": "Antarctica",
+    "numeric": "010",
+    "alpha3": "ATA",
+    "alpha2": "AQ",
+    "location": "南極",
+    "subDivision": "ISO 3166-2:AQ"
+  },
+  {
+    "jpnName": "ニウエ",
+    "engName": "Niue",
+    "numeric": 570,
+    "alpha3": "NIU",
+    "alpha2": "NU",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:NU"
+  },
+  {
+    "jpnName": "ニカラグア",
+    "engName": "Nicaragua",
+    "numeric": 558,
+    "alpha3": "NIC",
+    "alpha2": "NI",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:NI"
+  },
+  {
+    "jpnName": "ニジェール",
+    "engName": "Niger",
+    "numeric": 562,
+    "alpha3": "NER",
+    "alpha2": "NE",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:NE"
+  },
+  {
+    "jpnName": "日本",
+    "engName": "Japan",
+    "numeric": 392,
+    "alpha3": "JPN",
+    "alpha2": "JP",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:JP"
+  },
+  {
+    "jpnName": "西サハラ",
+    "engName": "Western Sahara",
+    "numeric": 732,
+    "alpha3": "ESH",
+    "alpha2": "EH",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:EH"
+  },
+  {
+    "jpnName": "ニューカレドニア",
+    "engName": "New Caledonia",
+    "numeric": 540,
+    "alpha3": "NCL",
+    "alpha2": "NC",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:NC"
+  },
+  {
+    "jpnName": "ニュージーランド",
+    "engName": "New Zealand",
+    "numeric": 554,
+    "alpha3": "NZL",
+    "alpha2": "NZ",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:NZ"
+  },
+  {
+    "jpnName": "ネパール",
+    "engName": "Nepal",
+    "numeric": 524,
+    "alpha3": "NPL",
+    "alpha2": "NP",
+    "location": "南アジア",
+    "subDivision": "ISO 3166-2:NP"
+  },
+  {
+    "jpnName": "ノーフォーク島",
+    "engName": "Norfolk Island",
+    "numeric": 574,
+    "alpha3": "NFK",
+    "alpha2": "NF",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:NF"
+  },
+  {
+    "jpnName": "ノルウェー",
+    "engName": "Norway",
+    "numeric": 578,
+    "alpha3": "NOR",
+    "alpha2": "NO",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:NO"
+  },
+  {
+    "jpnName": "ハード島とマクドナルド諸島",
+    "engName": "Heard Island and McDonald Islands",
+    "numeric": 334,
+    "alpha3": "HMD",
+    "alpha2": "HM",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:HM"
+  },
+  {
+    "jpnName": "バーレーン",
+    "engName": "Bahrain",
+    "numeric": "048",
+    "alpha3": "BHR",
+    "alpha2": "BH",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:BH"
+  },
+  {
+    "jpnName": "ハイチ",
+    "engName": "Haiti",
+    "numeric": 332,
+    "alpha3": "HTI",
+    "alpha2": "HT",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:HT"
+  },
+  {
+    "jpnName": "パキスタン",
+    "engName": "Pakistan",
+    "numeric": 586,
+    "alpha3": "PAK",
+    "alpha2": "PK",
+    "location": "南アジア",
+    "subDivision": "ISO 3166-2:PK"
+  },
+  {
+    "jpnName": "バチカン",
+    "engName": "Holy See (Vatican City State)",
+    "numeric": 336,
+    "alpha3": "VAT",
+    "alpha2": "VA",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:VA"
+  },
+  {
+    "jpnName": "パナマ",
+    "engName": "Panama",
+    "numeric": 591,
+    "alpha3": "PAN",
+    "alpha2": "PA",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:PA"
+  },
+  {
+    "jpnName": "バヌアツ",
+    "engName": "Vanuatu",
+    "numeric": 548,
+    "alpha3": "VUT",
+    "alpha2": "VU",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:VU"
+  },
+  {
+    "jpnName": "バハマ",
+    "engName": "Bahamas",
+    "numeric": "044",
+    "alpha3": "BHS",
+    "alpha2": "BS",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:BS"
+  },
+  {
+    "jpnName": "パプアニューギニア",
+    "engName": "Papua New Guinea",
+    "numeric": 598,
+    "alpha3": "PNG",
+    "alpha2": "PG",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:PG"
+  },
+  {
+    "jpnName": "バミューダ",
+    "engName": "Bermuda",
+    "numeric": "060",
+    "alpha3": "BMU",
+    "alpha2": "BM",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:BM"
+  },
+  {
+    "jpnName": "パラオ",
+    "engName": "Palau",
+    "numeric": 585,
+    "alpha3": "PLW",
+    "alpha2": "PW",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:PW"
+  },
+  {
+    "jpnName": "パラグアイ",
+    "engName": "Paraguay",
+    "numeric": 600,
+    "alpha3": "PRY",
+    "alpha2": "PY",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:PY"
+  },
+  {
+    "jpnName": "バルバドス",
+    "engName": "Barbados",
+    "numeric": "052",
+    "alpha3": "BRB",
+    "alpha2": "BB",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:BB"
+  },
+  {
+    "jpnName": "パレスチナ",
+    "engName": "Palestinian Territory, Occupied",
+    "numeric": 275,
+    "alpha3": "PSE",
+    "alpha2": "PS",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:PS"
+  },
+  {
+    "jpnName": "ハンガリー",
+    "engName": "Hungary",
+    "numeric": 348,
+    "alpha3": "HUN",
+    "alpha2": "HU",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:HU"
+  },
+  {
+    "jpnName": "バングラデシュ",
+    "engName": "Bangladesh",
+    "numeric": "050",
+    "alpha3": "BGD",
+    "alpha2": "BD",
+    "location": "南アジア",
+    "subDivision": "ISO 3166-2:BD"
+  },
+  {
+    "jpnName": "東ティモール",
+    "engName": "Timor-Leste",
+    "numeric": 626,
+    "alpha3": "TLS",
+    "alpha2": "TL",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:TL"
+  },
+  {
+    "jpnName": "ピトケアン",
+    "engName": "Pitcairn",
+    "numeric": 612,
+    "alpha3": "PCN",
+    "alpha2": "PN",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:PN"
+  },
+  {
+    "jpnName": "フィジー",
+    "engName": "Fiji",
+    "numeric": 242,
+    "alpha3": "FJI",
+    "alpha2": "FJ",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:FJ"
+  },
+  {
+    "jpnName": "フィリピン",
+    "engName": "Philippines",
+    "numeric": 608,
+    "alpha3": "PHL",
+    "alpha2": "PH",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:PH"
+  },
+  {
+    "jpnName": "フィンランド",
+    "engName": "Finland",
+    "numeric": 246,
+    "alpha3": "FIN",
+    "alpha2": "FI",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:FI"
+  },
+  {
+    "jpnName": "ブータン",
+    "engName": "Bhutan",
+    "numeric": "064",
+    "alpha3": "BTN",
+    "alpha2": "BT",
+    "location": "南アジア",
+    "subDivision": "ISO 3166-2:BT"
+  },
+  {
+    "jpnName": "ブーベ島",
+    "engName": "Bouvet Island",
+    "numeric": "074",
+    "alpha3": "BVT",
+    "alpha2": "BV",
+    "location": "南極",
+    "subDivision": "ISO 3166-2:BV"
+  },
+  {
+    "jpnName": "プエルトリコ",
+    "engName": "Puerto Rico",
+    "numeric": 630,
+    "alpha3": "PRI",
+    "alpha2": "PR",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:PR"
+  },
+  {
+    "jpnName": "フェロー諸島",
+    "engName": "Faroe Islands",
+    "numeric": 234,
+    "alpha3": "FRO",
+    "alpha2": "FO",
+    "location": "北ヨーロッパ",
+    "subDivision": "ISO 3166-2:FO"
+  },
+  {
+    "jpnName": "フォークランド諸島",
+    "engName": "Falkland Islands (Malvinas)",
+    "numeric": 238,
+    "alpha3": "FLK",
+    "alpha2": "FK",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:FK"
+  },
+  {
+    "jpnName": "ブラジル",
+    "engName": "Brazil",
+    "numeric": "076",
+    "alpha3": "BRA",
+    "alpha2": "BR",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:BR"
+  },
+  {
+    "jpnName": "フランス",
+    "engName": "France",
+    "numeric": 250,
+    "alpha3": "FRA",
+    "alpha2": "FR",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:FR"
+  },
+  {
+    "jpnName": "フランス領ギアナ",
+    "engName": "French Guiana",
+    "numeric": 254,
+    "alpha3": "GUF",
+    "alpha2": "GF",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:GF"
+  },
+  {
+    "jpnName": "フランス領ポリネシア",
+    "engName": "French Polynesia",
+    "numeric": 258,
+    "alpha3": "PYF",
+    "alpha2": "PF",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:PF"
+  },
+  {
+    "jpnName": "フランス領南方・南極地域",
+    "engName": "French Southern Territories",
+    "numeric": 260,
+    "alpha3": "ATF",
+    "alpha2": "TF",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:TF"
+  },
+  {
+    "jpnName": "ブルガリア",
+    "engName": "Bulgaria",
+    "numeric": 100,
+    "alpha3": "BGR",
+    "alpha2": "BG",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:BG"
+  },
+  {
+    "jpnName": "ブルキナファソ",
+    "engName": "Burkina Faso",
+    "numeric": 854,
+    "alpha3": "BFA",
+    "alpha2": "BF",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:BF"
+  },
+  {
+    "jpnName": "ブルネイ",
+    "engName": "Brunei Darussalam",
+    "numeric": "096",
+    "alpha3": "BRN",
+    "alpha2": "BN",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:BN"
+  },
+  {
+    "jpnName": "ブルンジ",
+    "engName": "Burundi",
+    "numeric": 108,
+    "alpha3": "BDI",
+    "alpha2": "BI",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:BI"
+  },
+  {
+    "jpnName": "ベトナム",
+    "engName": "Viet Nam",
+    "numeric": 704,
+    "alpha3": "VNM",
+    "alpha2": "VN",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:VN"
+  },
+  {
+    "jpnName": "ベナン",
+    "engName": "Benin",
+    "numeric": 204,
+    "alpha3": "BEN",
+    "alpha2": "BJ",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:BJ"
+  },
+  {
+    "jpnName": "ベネズエラ",
+    "engName": "Venezuela, Bolivarian Republic of",
+    "numeric": 862,
+    "alpha3": "VEN",
+    "alpha2": "VE",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:VE"
+  },
+  {
+    "jpnName": "ベラルーシ",
+    "engName": "Belarus",
+    "numeric": 112,
+    "alpha3": "BLR",
+    "alpha2": "BY",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:BY"
+  },
+  {
+    "jpnName": "ベリーズ",
+    "engName": "Belize",
+    "numeric": "084",
+    "alpha3": "BLZ",
+    "alpha2": "BZ",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:BZ"
+  },
+  {
+    "jpnName": "ペルー",
+    "engName": "Peru",
+    "numeric": 604,
+    "alpha3": "PER",
+    "alpha2": "PE",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:PE"
+  },
+  {
+    "jpnName": "ベルギー",
+    "engName": "Belgium",
+    "numeric": "056",
+    "alpha3": "BEL",
+    "alpha2": "BE",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:BE"
+  },
+  {
+    "jpnName": "ポーランド",
+    "engName": "Poland",
+    "numeric": 616,
+    "alpha3": "POL",
+    "alpha2": "PL",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:PL"
+  },
+  {
+    "jpnName": "ボスニア・ヘルツェゴビナ",
+    "engName": "Bosnia and Herzegovina",
+    "numeric": "070",
+    "alpha3": "BIH",
+    "alpha2": "BA",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:BA"
+  },
+  {
+    "jpnName": "ボツワナ",
+    "engName": "Botswana",
+    "numeric": "072",
+    "alpha3": "BWA",
+    "alpha2": "BW",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:BW"
+  },
+  {
+    "jpnName": "BES諸島",
+    "engName": "Bonaire, Saint Eustatius and Saba",
+    "numeric": 535,
+    "alpha3": "BES",
+    "alpha2": "BQ",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:BQ"
+  },
+  {
+    "jpnName": "ボリビア",
+    "engName": "Bolivia, Plurinational State of",
+    "numeric": "068",
+    "alpha3": "BOL",
+    "alpha2": "BO",
+    "location": "南アメリカ",
+    "subDivision": "ISO 3166-2:BO"
+  },
+  {
+    "jpnName": "ポルトガル",
+    "engName": "Portugal",
+    "numeric": 620,
+    "alpha3": "PRT",
+    "alpha2": "PT",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:PT"
+  },
+  {
+    "jpnName": "香港",
+    "engName": "Hong Kong",
+    "numeric": 344,
+    "alpha3": "HKG",
+    "alpha2": "HK",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:HK"
+  },
+  {
+    "jpnName": "ホンジュラス",
+    "engName": "Honduras",
+    "numeric": 340,
+    "alpha3": "HND",
+    "alpha2": "HN",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:HN"
+  },
+  {
+    "jpnName": "マーシャル諸島",
+    "engName": "Marshall Islands",
+    "numeric": 584,
+    "alpha3": "MHL",
+    "alpha2": "MH",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:MH"
+  },
+  {
+    "jpnName": "マカオ",
+    "engName": "Macao",
+    "numeric": 446,
+    "alpha3": "MAC",
+    "alpha2": "MO",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:MO"
+  },
+  {
+    "jpnName": "マケドニア共和国",
+    "engName": "Macedonia, the former Yugoslav Republic of",
+    "numeric": 807,
+    "alpha3": "MKD",
+    "alpha2": "MK",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:MK"
+  },
+  {
+    "jpnName": "マダガスカル",
+    "engName": "Madagascar",
+    "numeric": 450,
+    "alpha3": "MDG",
+    "alpha2": "MG",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:MG"
+  },
+  {
+    "jpnName": "マヨット",
+    "engName": "Mayotte",
+    "numeric": 175,
+    "alpha3": "MYT",
+    "alpha2": "YT",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:YT"
+  },
+  {
+    "jpnName": "マラウイ",
+    "engName": "Malawi",
+    "numeric": 454,
+    "alpha3": "MWI",
+    "alpha2": "MW",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:MW"
+  },
+  {
+    "jpnName": "マリ",
+    "engName": "Mali",
+    "numeric": 466,
+    "alpha3": "MLI",
+    "alpha2": "ML",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:ML"
+  },
+  {
+    "jpnName": "マルタ",
+    "engName": "Malta",
+    "numeric": 470,
+    "alpha3": "MLT",
+    "alpha2": "MT",
+    "location": "地中海地域",
+    "subDivision": "ISO 3166-2:MT"
+  },
+  {
+    "jpnName": "マルティニーク",
+    "engName": "Martinique",
+    "numeric": 474,
+    "alpha3": "MTQ",
+    "alpha2": "MQ",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:MQ"
+  },
+  {
+    "jpnName": "マレーシア",
+    "engName": "Malaysia",
+    "numeric": 458,
+    "alpha3": "MYS",
+    "alpha2": "MY",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:MY"
+  },
+  {
+    "jpnName": "マン島",
+    "engName": "Isle of Man",
+    "numeric": 833,
+    "alpha3": "IMN",
+    "alpha2": "IM",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:IM"
+  },
+  {
+    "jpnName": "ミクロネシア連邦",
+    "engName": "Micronesia, Federated States of",
+    "numeric": 583,
+    "alpha3": "FSM",
+    "alpha2": "FM",
+    "location": "オセアニア",
+    "subDivision": "ISO 3166-2:FM"
+  },
+  {
+    "jpnName": "南アフリカ",
+    "engName": "South Africa",
+    "numeric": 710,
+    "alpha3": "ZAF",
+    "alpha2": "ZA",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:ZA"
+  },
+  {
+    "jpnName": "南スーダン",
+    "engName": "South Sudan",
+    "numeric": 728,
+    "alpha3": "SSD",
+    "alpha2": "SS",
+    "location": "東アフリカ",
+    "subDivision": "ISO 3166-2:SS"
+  },
+  {
+    "jpnName": "ミャンマー",
+    "engName": "Myanmar",
+    "numeric": 104,
+    "alpha3": "MMR",
+    "alpha2": "MM",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:MM"
+  },
+  {
+    "jpnName": "メキシコ",
+    "engName": "Mexico",
+    "numeric": 484,
+    "alpha3": "MEX",
+    "alpha2": "MX",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:MX"
+  },
+  {
+    "jpnName": "モーリシャス",
+    "engName": "Mauritius",
+    "numeric": 480,
+    "alpha3": "MUS",
+    "alpha2": "MU",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:MU"
+  },
+  {
+    "jpnName": "モーリタニア",
+    "engName": "Mauritania",
+    "numeric": 478,
+    "alpha3": "MRT",
+    "alpha2": "MR",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:MR"
+  },
+  {
+    "jpnName": "モザンビーク",
+    "engName": "Mozambique",
+    "numeric": 508,
+    "alpha3": "MOZ",
+    "alpha2": "MZ",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:MZ"
+  },
+  {
+    "jpnName": "モナコ",
+    "engName": "Monaco",
+    "numeric": 492,
+    "alpha3": "MCO",
+    "alpha2": "MC",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:MC"
+  },
+  {
+    "jpnName": "モルディブ",
+    "engName": "Maldives",
+    "numeric": 462,
+    "alpha3": "MDV",
+    "alpha2": "MV",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:MV"
+  },
+  {
+    "jpnName": "モルドバ",
+    "engName": "Moldova, Republic of",
+    "numeric": 498,
+    "alpha3": "MDA",
+    "alpha2": "MD",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:MD"
+  },
+  {
+    "jpnName": "モロッコ",
+    "engName": "Morocco",
+    "numeric": 504,
+    "alpha3": "MAR",
+    "alpha2": "MA",
+    "location": "北アフリカ",
+    "subDivision": "ISO 3166-2:MA"
+  },
+  {
+    "jpnName": "モンゴル",
+    "engName": "Mongolia",
+    "numeric": 496,
+    "alpha3": "MNG",
+    "alpha2": "MN",
+    "location": "東アジア",
+    "subDivision": "ISO 3166-2:MN"
+  },
+  {
+    "jpnName": "モンテネグロ",
+    "engName": "Montenegro",
+    "numeric": 499,
+    "alpha3": "MNE",
+    "alpha2": "ME",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:ME"
+  },
+  {
+    "jpnName": "モントセラト",
+    "engName": "Montserrat",
+    "numeric": 500,
+    "alpha3": "MSR",
+    "alpha2": "MS",
+    "location": "中央アメリカ",
+    "subDivision": "ISO 3166-2:MS"
+  },
+  {
+    "jpnName": "ヨルダン",
+    "engName": "Jordan",
+    "numeric": 400,
+    "alpha3": "JOR",
+    "alpha2": "JO",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:JO"
+  },
+  {
+    "jpnName": "ラオス",
+    "engName": "Lao People's Democratic Republic",
+    "numeric": 418,
+    "alpha3": "LAO",
+    "alpha2": "LA",
+    "location": "東南アジア",
+    "subDivision": "ISO 3166-2:LA"
+  },
+  {
+    "jpnName": "ラトビア",
+    "engName": "Latvia",
+    "numeric": 428,
+    "alpha3": "LVA",
+    "alpha2": "LV",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:LV"
+  },
+  {
+    "jpnName": "リトアニア",
+    "engName": "Lithuania",
+    "numeric": 440,
+    "alpha3": "LTU",
+    "alpha2": "LT",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:LT"
+  },
+  {
+    "jpnName": "リビア",
+    "engName": "Libya",
+    "numeric": 434,
+    "alpha3": "LBY",
+    "alpha2": "LY",
+    "location": "北アフリカ",
+    "subDivision": "ISO 3166-2:LY"
+  },
+  {
+    "jpnName": "リヒテンシュタイン",
+    "engName": "Liechtenstein",
+    "numeric": 438,
+    "alpha3": "LIE",
+    "alpha2": "LI",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:LI"
+  },
+  {
+    "jpnName": "リベリア",
+    "engName": "Liberia",
+    "numeric": 430,
+    "alpha3": "LBR",
+    "alpha2": "LR",
+    "location": "西アフリカ",
+    "subDivision": "ISO 3166-2:LR"
+  },
+  {
+    "jpnName": "ルーマニア",
+    "engName": "Romania",
+    "numeric": 642,
+    "alpha3": "ROU",
+    "alpha2": "RO",
+    "location": "東ヨーロッパ",
+    "subDivision": "ISO 3166-2:RO"
+  },
+  {
+    "jpnName": "ルクセンブルク",
+    "engName": "Luxembourg",
+    "numeric": 442,
+    "alpha3": "LUX",
+    "alpha2": "LU",
+    "location": "西ヨーロッパ",
+    "subDivision": "ISO 3166-2:LU"
+  },
+  {
+    "jpnName": "ルワンダ",
+    "engName": "Rwanda",
+    "numeric": 646,
+    "alpha3": "RWA",
+    "alpha2": "RW",
+    "location": "中央アフリカ",
+    "subDivision": "ISO 3166-2:RW"
+  },
+  {
+    "jpnName": "レソト",
+    "engName": "Lesotho",
+    "numeric": 426,
+    "alpha3": "LSO",
+    "alpha2": "LS",
+    "location": "南アフリカ",
+    "subDivision": "ISO 3166-2:LS"
+  },
+  {
+    "jpnName": "レバノン",
+    "engName": "Lebanon",
+    "numeric": 422,
+    "alpha3": "LBN",
+    "alpha2": "LB",
+    "location": "中東",
+    "subDivision": "ISO 3166-2:LB"
+  },
+  {
+    "jpnName": "レユニオン",
+    "engName": "Réunion",
+    "numeric": 638,
+    "alpha3": "REU",
+    "alpha2": "RE",
+    "location": "インド洋地域",
+    "subDivision": "ISO 3166-2:RE"
+  },
+  {
+    "jpnName": "ロシア",
+    "engName": "Russian Federation",
+    "numeric": 643,
+    "alpha3": "RUS",
+    "alpha2": "RU",
+    "location": "ロシア",
+    "subDivision": "ISO 3166-2:RU"
+  }
+]
