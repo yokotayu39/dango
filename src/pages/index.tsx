@@ -1,10 +1,26 @@
 import { NextPage } from 'next';
-import React, { ReactElement, useState } from 'react';
+import React, { ReactElement, useEffect, useState } from 'react';
 import { Button } from '../components/Button';
+
+type RandomCat = {
+  id: string;
+  url: string;
+  width: number;
+  height: number;
+};
 
 const IndexPage: NextPage = (): ReactElement => {
   const [count, setCount] = useState<number>(0);
   const [labourHours, setLabourHours] = useState<string>('0');
+  const [catImage, setCatImage] = useState<null | RandomCat>(null);
+
+  useEffect(() => {
+    fetch('https://api.thecatapi.com/v1/images/search').then(async (res: Response) => {
+      const json: Array<RandomCat> = await res.json();
+
+      setCatImage(json[0]!);
+    });
+  }, []);
 
   return (
     <>
@@ -69,6 +85,9 @@ const IndexPage: NextPage = (): ReactElement => {
             <span className="select-none text-xl font-mono text-gray-700 text-right">{labourHours}</span>
           </div>
         </div>
+      </div>
+      <div className="m-10 p-4 w-2/3 mx-auto shadow-lg border-2 rounded-2xl">
+        {catImage === null ? null: <img src={catImage.url} height={catImage.height} width={catImage.width} alt="cat" className="w-full" />}
       </div>
     </>
   );
