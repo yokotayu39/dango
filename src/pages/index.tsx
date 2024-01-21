@@ -1,30 +1,14 @@
-import {promises} from 'fs';
+import { promises } from 'fs';
 import { GetStaticProps, NextPage } from 'next';
-import * as path from 'path';
-import * as process from 'process';
+import { join } from 'path';
 import React, { ReactElement, useEffect, useState } from 'react';
-import { Button } from '../components/Button';
+import { Button } from '../components/Button.jsx';
+import { CatImage } from '../components/CatImage.jsx';
+import { Country, RandomCat } from '../lib/Types.js';
 
-type Country = {
-  jpnName: string;
-  engName: string;
-  numeric: number;
-  alpha3: string;
-  alpha2: string;
-  location: string;
-  subDivision: string;
-};
-
-type RandomCat = {
-  id: string;
-  url: string;
-  width: number;
-  height: number;
-};
-
-type Props = {
+type Props = Readonly<{
   countries: Array<Country>;
-};
+}>;
 
 
 const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
@@ -34,7 +18,7 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
 
   useEffect(() => {
     fetch('https://api.thecatapi.com/v1/images/search').then(async (res: Response) => {
-      const json: Array<RandomCat> = await res.json();
+      const json: Array<RandomCat> = await res.json() as Array<RandomCat>;
 
       setCatImage(json[0]!);
     });
@@ -54,7 +38,8 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
                 console.log(count);
 
                 setCount(count + 1);
-              }}>
+              }}
+            >
               <span className="select-none text-xl">+</span>
             </Button>
             <Button
@@ -63,14 +48,16 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
                 console.log(count);
 
                 setCount(count - 1);
-              }}>
+              }}
+            >
               <span className="select-none text-xl">-</span>
             </Button>
             <Button
               className="py-2 bg-cyan-600 text-white rounded border border-gray-200 cursor-pointer"
               onClick={() => {
                 setCount(0);
-              }}>
+              }}
+            >
               <span className="select-none text-xl">C</span>
             </Button>
           </div>
@@ -106,30 +93,30 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
       </div>
       <div className="m-10 p-4 w-2/3 mx-auto shadow-lg border-2 rounded-2xl">
         <ul className="list-none">
-        {countries.map((country: Country) => {
-          return (
-            <li className="text-gray-800 even:bg-teal-100 text-lg">
-              <div className="my-1">{country.jpnName}</div>
-              <div className="my-1">{country.engName}</div>
-            </li>
-          );
-        })}
+          {countries.map((country: Country) => {
+            return (
+              <li key={country.alpha2} className="text-gray-800 even:bg-teal-100 text-lg">
+                <div className="my-1">{country.jpnName}</div>
+                <div className="my-1">{country.engName}</div>
+              </li>
+            );
+          })}
         </ul>
       </div>
       <div className="m-10 p-4 w-2/3 mx-auto shadow-lg border-2 rounded-2xl">
-        {catImage === null ? null: <img src={catImage.url} height={catImage.height} width={catImage.width} alt="cat" className="w-full" />}
+        <CatImage cat={catImage} />
       </div>
     </>
   );
 };
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const buffer = await promises.readFile(path.join(process.cwd(), 'json', 'countries.json'));
+  const buffer = await promises.readFile(join(process.cwd(), 'json', 'countries.json'));
   const str  = buffer.toString();
 
   return {
     props: {
-      countries: JSON.parse(str)
+      countries: JSON.parse(str) as Array<Country>
     }
   };
 };
