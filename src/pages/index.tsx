@@ -104,6 +104,37 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
         </ul>
       </div>
       <div className="m-10 p-4 w-2/3 mx-auto shadow-lg border-2 rounded-2xl">
+        フォームで使いそうなもの
+        <ul className="list-none">
+          <li className="text-gray-800 even:bg-teal-100 text-lg">
+            <input
+              className="py-2 px-3 border-2 rounded border-gray-200 cursor-text"
+              type="text"
+              onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+                console.log(e.target.value);
+
+                setLabourHours(e.target.value);
+              }}
+              placeholder="テキストボックスです"
+            />
+          </li>
+          <li>
+            <select
+              className="cursor-pointer border rounded py-3 px-4"
+              onChange={(e: ChangeEvent<HTMLSelectElement>) => {
+                console.log(e.target.value);
+              }}
+              value={0}
+            >
+              <option value={0}>選択してください</option>
+              <option value={1}>選択肢1</option>
+              <option value={2}>選択肢2</option>
+              <option value={3}>選択肢3</option>
+            </select>
+          </li>
+        </ul>
+      </div>
+      <div className="m-10 p-4 w-2/3 mx-auto shadow-lg border-2 rounded-2xl">
         <CatImage cat={catImage} />
       </div>
     </>
@@ -112,7 +143,7 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const buffer = await promises.readFile(join(process.cwd(), 'json', 'countries.json'));
-  const str  = buffer.toString();
+  const str = buffer.toString();
 
   return {
     props: {
