@@ -1,7 +1,7 @@
 import { promises } from 'fs';
 import { GetStaticProps, NextPage } from 'next';
 import { join } from 'path';
-import React, { ChangeEvent, ReactElement, useEffect, useState } from 'react';
+import React, { ReactElement, useEffect, useState } from 'react';
 import { Button } from '../components/Button';
 import { CatImage } from '../components/CatImage';
 import { Country, RandomCat } from '../lib/Types.js';
@@ -121,7 +121,7 @@ const IndexPage: NextPage<Props> = ({ countries }: Props): ReactElement => {
           <li>
             <select
               className="cursor-pointer border rounded py-3 px-4"
-              onChange={(e: ChangeEvent<HTMLSelectElement>) => {
+              onChange={(e: React.ChangeEvent<HTMLSelectElement>) => {
                 console.log(e.target.value);
               }}
               value={0}
