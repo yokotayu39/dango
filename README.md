@@ -17,7 +17,7 @@ yarn format
 ## Run tests
 
 ```
-yarn test aa
+yarn test aa sss
 ```
 
-test yokota
+test yokota aaaaa aaa
